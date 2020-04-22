@@ -1,0 +1,5 @@
+rootProject.name='Materia Design'
+include ':app'
+include ':navigationbar'
+include ':yarole'
+include ':tablayout'

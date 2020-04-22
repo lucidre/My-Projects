@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Id_activityScreenTitles">
+        <item>Item 1</item>
+        <item>Item2</item>
+        <item />
+        <item>Item 3</item>
+    </string-array>
+
+    <string-array name="Id_activityScreenIcons">
+
+        <item>@drawable/ic_launcher_background</item>
+        <item>@drawable/ic_launcher_background</item>
+        <item>0</item>
+        <item>@drawable/ic_launcher_background</item>
+
+
+    </string-array>
+
+
+</resources>
